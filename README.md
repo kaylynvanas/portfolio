@@ -1,6 +1,5 @@
-# Portfolio
 ## About Me
-My name is Kaylyn Van As, an informatics and data science graduate from Cape Town, South Africa. I compelted my Bachelors of Science in Informatics 2019, and thereafter completed a Data Science bootcamp with HyperionDev. I am passionate about problem solving, science, green tech and the advancement of humankind. This is why I wake up motivated every morning, and this is what I would most like to do with my time.
+My name is Kaylyn Van As, an informatics and data science graduate from Cape Town, South Africa. I completed my Bachelors of Science in Informatics in 2020, and thereafter completed a Data Science bootcamp with HyperionDev. I am passionate about problem solving, science, green tech and the advancement of humankind.
 
 ## Contact Details
 **Full name:** Kaylyn Van As
@@ -11,17 +10,11 @@ My name is Kaylyn Van As, an informatics and data science graduate from Cape Tow
 
 **LinkedIn:** https://www.linkedin.com/in/kaylyn-van-as-a99678129/
 
-## Skills & Competencies
+## Technical Skills
 - Python
 - C++
-- Object-Oriented Programming
 - SQL
-- Data Modeling
-- Data Wrangling
-- Data Visualisation
-- Exploratory Data Analysis
-- Machine Learning Algorithms
-- Deep Learning
+- Microsoft Office Suite
 
 ## Education
 **Data Science Bootcamp**
@@ -41,6 +34,14 @@ University of South Africa
 This degree focused on the underlying concepts and principles of Information Systems. Programming, system analysis and design, database design and implementation, interaction design, project management, statistics, entrepreneurship and business management are among the many skills gained.
 
 ## Work Experience
+**Child Care Specialist**
+
+Private
+
+*January 2019 - Present*
+
+My responsibilities include tutoring children aged three to thirteen, ensuring the safety of the children, and supporting the emotional wellbeing of the children.
+
 **English Language Consultant**
 
 CallForce
