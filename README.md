@@ -54,4 +54,5 @@ As an English language consultant, it was my duty to create lessons and teach bu
 
 Some of the academic projects that I have worked on are:
 - [Exploratory Data Analysis of Automobiles](https://github.com/kaylynvanas/automobile_eda);
-- [Exploratory Data Analysis of Confirmed COVID-19 Cases from 21/01/2020-20/02/2020](https://github.com/kaylynvanas/covid-19_eda)
+- [Exploratory Data Analysis of Confirmed COVID-19 Cases from 21/01/2020-20/02/2020](https://github.com/kaylynvanas/covid-19_eda);
+- [Classification of Movie Reviews as Positive or Negative Using Recurrent Neural Networks](https://github.com/kaylynvanas/movie-review_rnn).
