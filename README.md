@@ -53,7 +53,7 @@ HyperionDev
 - Solved industry-specific problems using data-driven techniques and domain knowledge.
 
 ## Work Experience
-**Au Pair** - Private - *January 2019 to Present*
+**Au Pair** - Private Family - *January 2019 to Present*
 
 **English Language Consultant** - CallForce - *July 2016 to December 2018*
 
