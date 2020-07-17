@@ -29,7 +29,7 @@ When I am not putting my skills to good use or doing a new and exciting online c
 - Tableau
 
 ## Education
-**BSc Informatics**
+**Bachelor of Science in Informatics**
 
 University of South Africa
 
