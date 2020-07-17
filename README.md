@@ -53,13 +53,11 @@ HyperionDev
 - Solved industry-specific problems using data-driven techniques and domain knowledge.
 
 ## Work Experience
-**Child Care Specialist**
+**Au Pair**
 
 Private
 
 *January 2019 - Present*
-
-My responsibilities include tutoring children aged three to thirteen, ensuring the safety of the children, and supporting the emotional wellbeing of the children.
 
 **English Language Consultant**
 
@@ -67,7 +65,11 @@ CallForce
 
 *July 2016 - December 2018*
 
-As an English language consultant, it was my duty to create lessons and teach business and conversational English to southeast Asians at all levels of language proficiency. This required excellent spoken and written English language skills, clear diction, confidence and lateral thinking skills, as well as technical skills related to online teaching via video conferencing software.
+**Waitress**
+
+Doodles Beachfront
+
+*November 2015 - January 2016*
 
 ## Projects
 
